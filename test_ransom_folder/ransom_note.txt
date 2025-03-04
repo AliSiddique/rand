@@ -1,0 +1,6 @@
+
+    YOUR FILES HAVE BEEN ENCRYPTED!
+    To decrypt them, send 0.001 BTC to [fake_address].
+    Then, run this script again with the key from your payment confirmation.
+    Key file: secret.key
+    
